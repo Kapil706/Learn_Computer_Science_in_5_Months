@@ -3,7 +3,7 @@ This is the Curriculum for "Learn Computer Science in 5 Months" By Siraj Raval o
 
 ## Overview
 
-You can find the video [here](https://youtu.be/-OvRVlqKebI). 
+You can find the video [here](https://youtu.be/-OvRVlqKebI). These Videos are great.
 
 # 5 Month Curriculum
 
